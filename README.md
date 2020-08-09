@@ -3,7 +3,7 @@ This bot is one of the easiest ways to set up a Autorole for your Discord server
 **How to set up?**
 
 - `+setautorole @role`
-- Move the role @Autorole **over** the role you want to give to new members ([Example](https://drive.google.com/file/d/1Dk7yO05V7YTL74jkQaavOxg3jljUGqa0/view)).
+- Move the role @Autorole **over** the role you want to give to new members ([Example](https://raw.githubusercontent.com/CinePlays/Autorole/master/roleguide.jpg)).
 
 **List of all commands**
 
